@@ -1,0 +1,57 @@
+header{
+    background-color: cornflowerblue ;
+    background-size: cover;
+    background-clip: border-box;
+    height: 105px;
+    position: static;
+    padding: 5px;
+    font-size: large;
+.container-fluid
+}
+.lateral{
+    background-color: darkgrey;
+    position:absolute;
+    height: 810px;
+    top: 105px;
+    text-align: center;
+    width: 250px;
+    float:left;
+}
+
+.Reciente {
+    height: 240px;
+}
+
+.Alumnos{
+    top: 100px;
+    position: static;
+    text-align: center;
+    height: 240px;
+    padding: 40px;
+}
+
+.perfil {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 30%;
+    border:2px solid #fff;
+    position: relative;
+    top: -480px;
+    left: 500px;
+
+
+}
+
+.dropdown {
+    position: absolute;
+    height: 400px;
+    left: 1000px;
+    top: 10px;
+    text-align: center;
+    width: 500px;
+    float:left;
+.justify-content-end:
+}
+
+

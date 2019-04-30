@@ -6,8 +6,8 @@ header{
   background-color: cornflowerblue ;
   background-size: cover;
   background-clip: border-box;
-  height: 115px;
-  position: inherit;
+  height: 105px;
+  position: static;
   padding: 5px;
   font-size: large;
 
@@ -31,6 +31,7 @@ section{
   border-left-width: 100px;
   font-size: large;
   font-weight: bold;
+  width: 445px;
 }
 
 .menu {
@@ -56,12 +57,10 @@ section{
   padding: 90px;
   font-size: large;
   font-weight: bold;
-  width: 358px;
-
-
-}
-
 
 
 
 }
+
+
+
